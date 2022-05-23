@@ -14,7 +14,6 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           config_timezone: Europe/Berlin
-          optimize: css, xml
           plugin_introduction: yes
           plugin_introduction_title: "About me"
           plugin_reactions: yes
