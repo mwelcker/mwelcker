@@ -31,9 +31,9 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
                                     <rect class="day" x="0" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
@@ -228,16 +228,16 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 13.1kb of code in 24 edited files across 14 commits over last 14 days</small>
+                <small>estimation from 8.65kb of code in 22 edited files across 12 commits over last 12 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="358.1561977549558" height="8" fill="#2b7489"/>
-                    <rect mask="url(#languages-bar)" x="358.1561977549558" y="0" width="60.53498925244805" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="418.69118700740387" y="0" width="29.223787914974924" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="447.9149749223788" y="0" width="12.085025077621209" height="8" fill="#a52a22"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="370.0888450148075" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="370.0888450148075" y="0" width="62.5518262586377" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="432.6406712734452" y="0" width="14.871668311944719" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="447.51233958538995" y="0" width="12.487660414610069" height="8" fill="#a52a22"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -366,7 +366,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 3 Jun 2022, 03:22:49 (timezone Europe/Berlin) with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 4 Jun 2022, 03:27:17 (timezone Europe/Berlin) with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
